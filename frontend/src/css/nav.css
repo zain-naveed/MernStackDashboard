@@ -1,0 +1,15 @@
+.nav{
+    
+    background-color: white;
+    padding: 10px 25px !important;
+    box-shadow: 0px 40px 20px -19px   #EAEBEF;
+    width:100%;
+    
+    
+}
+.dropdown-menu.show{
+    margin-left: -20px !important;
+}
+.dropdown-toggle::after{
+    display: none !important;
+}

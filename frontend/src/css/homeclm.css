@@ -1,0 +1,9 @@
+.info{
+    text-align: center;
+    /* background-color: lightgray; */
+}
+
+a:hover{
+    color: lightgray !important;
+    text-decoration: none !important;
+}

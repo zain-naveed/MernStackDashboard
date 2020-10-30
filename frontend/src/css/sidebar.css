@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sidebar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 6% !important;
+    background-color: #4D4D4D;
+    overflow: visible;
+
+}
+@media(max-width:767px){
+    .sidebar{
+        width: 0% !important;
+        overflow: hidden;
+    }
+}

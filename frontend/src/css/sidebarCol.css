@@ -1,0 +1,40 @@
+.svg-inline--fa,h4{
+    cursor: pointer;
+}
+h4{
+    font-size: 12px !important;
+    padding-top: 10px;
+    letter-spacing: 1px;
+    color: #D0D0D0;
+}
+.svg-inline--fa{
+    color: #797979;
+    font-size: 35px;
+    
+}
+.svg-inline--fa:hover{
+    color: #D0D0D0;
+}
+.active{
+    color: white;
+}
+
+ .sideColumn{
+/* display: flex;
+justify-content: center; */
+text-align: center;
+margin-top: 20px;
+
+} 
+a{
+    color: transparent;
+}
+a:hover{
+    color: transparent !important;
+}
+hr{
+    background: #D0D0D0;
+    width: 70%;
+    margin-left: 17.8%;
+    
+}

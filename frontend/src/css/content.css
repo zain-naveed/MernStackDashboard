@@ -1,0 +1,10 @@
+.content{
+    width: 94% !important;
+    margin-left: 6%;
+}
+@media(max-width:767px){
+    .content{
+        width: 100% !important;
+        margin-left: 0% !important;
+    }
+}
